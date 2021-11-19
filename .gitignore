@@ -144,3 +144,8 @@ dmypy.json
 .history/
 
 .mypy_cache
+
+# Pycharm
+.idea/
+
+__pycache__/
